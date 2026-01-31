@@ -1,7 +1,7 @@
-"""
-Personal developer profile.
-This file represents my skills, education, and future goals as a developer.
-"""
+
+#Personal developer profile.
+#This file represents my skills, education, and future goals as a developer.
+
 
 print(r"""
 ███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗ ██╗
