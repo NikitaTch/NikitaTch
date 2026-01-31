@@ -39,9 +39,10 @@ My name is Nikolai Fuertes Tchobanou<br>I am 30 years old, i born in Bolivia and
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+#Personal developer profile.
+#This file represents my skills, education, and future goals as a developer.
 ```
-Personal developer profile.
-This file represents my skills, education, and future goals as a developer.
+
 class DeveloperProfile:
     def __init__(self):
         self.name = "My name is Nikolai Fuertes Tchobanou"
